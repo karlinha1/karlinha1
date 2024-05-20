@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karla Gabrieli Oliveira Silva</h1>
 <h3 align="center">I'm a student, I'm in the 3rd period of Computer Science. Here in this profile you will find projects that I did in class, and codes that I learned by studying on my own.</h3>
 
-- 🌱 I’m currently learning **Java, Python**
+- 🌱 I’m currently learning **Java, Python and Dart**
 
 <p align="left">
 </p>
